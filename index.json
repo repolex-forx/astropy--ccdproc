@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "ccdproc",
+  "versions": [
+    {
+      "commit": "6bab63d0b98f85eab0b4f9e1cbc1ef28087cb7ad",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:56:10.987728+00:00"
+    }
+  ]
+}
