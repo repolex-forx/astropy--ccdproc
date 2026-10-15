@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/astropy/ccdproc/commit/6bab63d0b98f85eab0b4f9e1cbc1ef28087cb7ad",
       "git:hexsha": "6bab63d0b98f85eab0b4f9e1cbc1ef28087cb7ad",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T20:56:10.987096+00:00"
     },
     {
       "@id": "https://repolex.ai/r/astropy/ccdproc/commit/7e4bce1c28f46cacbfbc70ae41b00f6e9fb183d4",
